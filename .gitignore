@@ -3052,3 +3052,5 @@ cats_and_dogs/validation/dogs/dog.2496.jpg
 cats_and_dogs/validation/dogs/dog.2497.jpg
 cats_and_dogs/validation/dogs/dog.2498.jpg
 cats_and_dogs/validation/dogs/dog.2499.jpg
+train-data.tsv
+valid-data.tsv
