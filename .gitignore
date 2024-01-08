@@ -3054,3 +3054,7 @@ cats_and_dogs/validation/dogs/dog.2498.jpg
 cats_and_dogs/validation/dogs/dog.2499.jpg
 train-data.tsv
 valid-data.tsv
+book-crossings.zip
+BX-Users.csv
+BX-Books.csv
+BX-Book-Ratings.csv
